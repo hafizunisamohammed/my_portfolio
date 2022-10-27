@@ -1,10 +1,7 @@
 import React from 'react'
 import './about.css'
 
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderOpened} from 'react-icons/vsc'
-import Me from '../../assets/me-about.jpeg'
+import Me from '../../assets/me.jpg'
 
 const about = () => {
   return (
@@ -24,10 +21,8 @@ const about = () => {
           
           <article className='about_card'>
             <p>
-        "Hi! I am Hafizunisa but people call me Hafiz, currently am in Kalinga Institute of Industrial Technology,Bhubneshwar, Odisha. I will be graduating in spring 2024 with a bachelors degree in Technology.
-I would like to pursue a career in Machine Learning and work in a challenging environment which helps to learn new endeavors and grow professionally and to contribute in the growth of the company
-with hard work and dedication. I am tireless seeker of knowledge, occasional purveyor of wisdom. I beleive in having a good time while doing what we love,and I do love what I do. I am also a admirer of 
-people with a great taste in food. So if you are also someone who have an interest in good food then contact me, also if you are looking for someone having experience in development and machine learning then let's talk, while having great food."
+           Hi There! I am Hafizunisa student at KIIT University. I am a strong believer of the fact that one should be truthful towards the path one is following and be consistence in whatever he or she is doing, with this in mind I always aspire to become a better version of me each day. I am very passionate about the things I love doing. I am passionate seeker of knowledge and purveyor of wisdom.
+
         </p>
           </article>
         </div>
